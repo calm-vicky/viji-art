@@ -11,17 +11,17 @@ export default function ContactCTA() {
     <section className="bg-black px-6 py-20 text-white">
       <div className="mx-auto max-w-3xl text-center">
 
-        <p className="text-sm font-medium uppercase tracking-[0.2em] text-gray-400">
-          Create Something Special
+         <p className="text-sm font-medium uppercase tracking-[0.2em] text-gray-400">
+          Let's Create Together
         </p>
 
         <h2 className="mt-4 text-3xl font-bold md:text-4xl">
-          Have an artwork in mind?
+          Have a Memory Worth Turning Into Art?
         </h2>
 
-        <p className="mx-auto mt-5 max-w-xl leading-7 text-gray-300">
-          Let's turn your favorite memory, person or idea into a
-          beautiful handmade artwork.
+        <p className="mx-auto mt-5 max-w-2xl leading-7 text-gray-300">
+          Send us your idea or reference image on WhatsApp.
+          We'll help turn your special memory into a beautiful handmade artwork.
         </p>
 
         <a
@@ -30,8 +30,12 @@ export default function ContactCTA() {
           rel="noopener noreferrer"
           className="mt-8 inline-flex rounded-full bg-white px-7 py-3 font-medium text-black transition hover:bg-gray-200"
         >
-          Order on WhatsApp
+          💬 Order on WhatsApp
         </a>
+
+         <p className="mt-5 text-sm text-gray-400">
+          🌎 We ship all over the world
+        </p>
 
       </div>
     </section>
